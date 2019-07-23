@@ -1,0 +1,49 @@
+
+
+.watch_descripton{
+    width: 20px;
+    margin: 12%;
+    backface-visibility: visible;
+    background-color: aliceblue;
+    
+
+}
+div{
+    background-color:rgb(53,53,53);
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+#title{
+    font-family: Tangerine;
+    font-size: 50px;
+    margin: 20px;
+    color: whitesmoke;
+}
+#subtitle{
+    font-family: Unica One;
+    margin: 0%;
+    color: whitesmoke;
+}
+#subtitle2{
+    font-family: Unica One;
+    text-align: center;
+    margin: 0%;
+    color: whitesmoke;
+}
+body{
+    text-align: center;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding: 40px;
+    background-color: rgb(53, 53, 53);
+}
+
+footer{
+    color: bisque
+}
+
+@keyframes igotallkindadrugsforwhenigetlonely {
+    from {background-color: rgb(219, 188, 129);}
+    to {background-color: bisque;}
+}
